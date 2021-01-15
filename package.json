@@ -1,0 +1,19 @@
+{
+  "name": "wedding",
+  "version": "1.0.0",
+  "description": "this is a website to invite people for wedding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwathhegde/lagnapatra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwathhegde/lagnapatra/issues"
+  },
+  "homepage": "https://github.com/ashwathhegde/lagnapatra#readme"
+}
