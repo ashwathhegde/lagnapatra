@@ -846,7 +846,7 @@ form label {
 #fh5co-counter .display-tc h1,
 .fh5co-cover .display-tc h1 {
   margin-bottom: 0px;
-  font-size: 100px;
+  font-size: 70px;
   line-height: 1.5;
   font-family: "Sacramento", Arial, serif;
 }
@@ -878,9 +878,9 @@ form label {
     font-size: 16px;
   }
 }
-#fh5co-header .display-tc .btn,
-#fh5co-counter .display-tc .btn,
-.fh5co-cover .display-tc .btn {
+ .display-tc .btn,
+ .display-tc .btn,
+ .display-tc .btn {
   padding: 15px 20px;
   background: #fff !important;
   color: #F14E95;
@@ -888,9 +888,9 @@ form label {
   font-size: 14px;
   text-transform: uppercase;
 }
-#fh5co-header .display-tc .btn:hover,
-#fh5co-counter .display-tc .btn:hover,
-.fh5co-cover .display-tc .btn:hover {
+.display-tc .btn:hover,
+ .display-tc .btn:hover,
+ .display-tc .btn:hover {
   background: #fff !important;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
